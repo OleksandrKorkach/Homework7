@@ -1,0 +1,14 @@
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\38066\RiderProjects\Homework7\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

@@ -1,0 +1,14 @@
+C:\Users\38066\RiderProjects\Homework7\Builder\bin\Debug\net7.0\Builder.exe
+C:\Users\38066\RiderProjects\Homework7\Builder\bin\Debug\net7.0\Builder.deps.json
+C:\Users\38066\RiderProjects\Homework7\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+C:\Users\38066\RiderProjects\Homework7\Builder\bin\Debug\net7.0\Builder.dll
+C:\Users\38066\RiderProjects\Homework7\Builder\bin\Debug\net7.0\Builder.pdb
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.dll
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\refint\Builder.dll
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.pdb
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+C:\Users\38066\RiderProjects\Homework7\Builder\obj\Debug\net7.0\ref\Builder.dll
